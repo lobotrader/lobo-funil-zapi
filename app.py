@@ -47,7 +47,8 @@ def webhook():
 
     t = (text or "").upper()
 
-    if t in ["OI","OLA","OLÁ","OIE"]:
+    if t in ["QUERO LUCRAR COM O MERCADO FINANCEIRO" in t:
+"]:
         send_text(phone, "🔥 Fala, campeão(a)! Aqui é o Lobo Trader 🐺")
         send_text(phone, "Antes da gente continuar, salva meu contato aí pra gente trocar uma ideia 📲")
         send_text(phone, "Depois que salvar, me manda um OK aqui 👇")
