@@ -3,8 +3,8 @@ from flask import Flask, request, jsonify
 import requests
 
 # ====== CONFIG ======
-INSTANCE_ID = "SEU_INSTANCE_ID"
-TOKEN = "SEU_TOKEN"
+INSTANCE_ID = "3E97D4C98D6B113E2FAE3A9184538B5F"
+TOKEN = "ADDBFE2D37EED94E55094BA1"
 ZAPI_BASE = f"https://api.z-api.io/instances/{INSTANCE_ID}/token/{TOKEN}"
 
 COURSE = "https://lobotrader.com.br/treinamento"
